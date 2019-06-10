@@ -1,14 +1,14 @@
 {
-  "name": "@mdi/font",
+  "name": "@francoism90/typeface-mdi",
   "version": "3.6.95",
   "description": "Dist for Material Design Webfont. This includes the Stock and Community icons in a single webfont collection.",
-  "style": "css/materialdesignicons.css",
+  "main": "scss/materialdesignicons.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Templarian/MaterialDesign-Webfont.git"
+    "url": "https://github.com/francoism90/typeface-mdi.git"
   },
   "keywords": [
     "material",
@@ -16,10 +16,7 @@
     "icons",
     "webfont"
   ],
-  "author": {
-    "name": "Austin Andrews",
-    "web": "http://twitter.com/templarian"
-  },
+  "author": "François Menning",
   "licenses": [
     {
       "type": "OFL-1.1",
@@ -31,7 +28,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/Templarian/MaterialDesign/issues"
+    "url": "https://github.com/francoism90/typeface-mdi/issues"
   },
-  "homepage": "http://materialdesignicons.com"
+  "homepage": "https://github.com/francoism90/typeface-mdi"
 }

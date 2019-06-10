@@ -5,8 +5,8 @@
 Webfont distribution for the [Material Design Icons](https://materialdesignicons.com).
 
 ```
-npm install @mdi/font
-bower install mdi
+npm install @francoism90/typeface-mdi
+yarn add @francoism90/typeface-mdi
 ```
 
 ## Related Packages
