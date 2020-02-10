@@ -1,7 +1,7 @@
 {
   "name": "@francoism90/typeface-mdi",
-  "version": "4.8.95",
-  "description": "Dist for Material Design Webfont. This includes the Stock and Community icons in a single webfont collection.",
+  "version": "4.9.95",
+  "description": "Dist for Material Design Webfont. This includes the Stock and Community icons in a single webfont (WOFF 2.0) collection.",
   "main": "scss/materialdesignicons.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
